@@ -1,0 +1,13 @@
+{
+  "projectId": "proj-sample-001",
+  "projectName": "Payments Gateway Microservice",
+  "generatedAt": "2026-10-06T15:30:00Z",
+  "overallScore": 92.5,
+  "status": "APPROVED_FOR_RELEASE",
+  "summary": {
+    "totalChecks": 20,
+    "passed": 18,
+    "failed": 0,
+    "inProgress": 2
+  }
+}
