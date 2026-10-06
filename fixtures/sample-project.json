@@ -1,0 +1,8 @@
+{
+  "id": "proj-sample-001",
+  "name": "Payments Gateway Microservice",
+  "description": "Critical transaction processing service for merchant checkout.",
+  "tier": "tier-1",
+  "owner": "engineering@kairos.dev",
+  "createdAt": "2026-10-06T12:00:00Z"
+}
